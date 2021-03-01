@@ -41,10 +41,10 @@
   //      memory: 11376/11441 MiB
   //      smx: 13
   { "index" : 0,
-    "threads" : 8, "blocks" : 128,
-    "bfactor" : 0, "bsleep" :  0,
+    "threads" : 2, "blocks" : 32,
+    "bfactor" : 8, "bsleep" :  8,
     "affine_to_cpu" : false, "sync_mode" : 3,
-    "mem_mode" : 1,
+    "mem_mode" : 0,
   },
 
 ],
