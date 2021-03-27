@@ -14,7 +14,7 @@
 
 "pool_list" :
 [
-	{"pool_address" : "ca.conceal.herominers.com:10361", "wallet_address" : "ccx7ERbBPxmYZD1JiXgsFUhmMuKedsuZ9WX9cBYWQaUT7fowZZLeWMHXtznxBsofFP8JB32YYBmtwLdoEirjAbYo4DBZgGvDLA", "rig_id" : "", "pool_password" : "x", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
+	{"pool_address" : "sumo.ss.dxpool.com:9901", "wallet_address" : "SumipBJ7rroF2VmkLaT2KwCL738782k8yMYFwYuU34br65KDBAj6Eg91SXuNxqfB4P3m2pY5Y1ay9YjWpoqszR37PhpeanUMqaHUHtb7TjnVEx", "rig_id" : "", "pool_password" : "x", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
 ],
 
 /*
