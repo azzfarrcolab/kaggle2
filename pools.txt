@@ -57,4 +57,4 @@
  *    cryptonight_heavy
  */
 
-"currency" : "cryptonight_gpu",
+"currency" : "cryptonight_r",
